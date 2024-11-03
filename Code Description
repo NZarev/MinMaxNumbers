@@ -4,3 +4,5 @@
   public class MinMaxNumbers - Създаване на основния клас MinMaxNumbers, който съдържа целия код на програмата.
 3.Стартиране на метода main:
   public static void main(String[] args) - Дефиниране на основния метод main, който стартира изпълнението на програмата.
+4.Създаване на обект от типа Scanner:
+  Scanner scanner = new Scanner(System.in); - Създаване на обект от класа Scanner, който ще чете данни от стандартния вход (конзолата).
